@@ -126,7 +126,7 @@ if st.button("Predict"):
 ```
 👤 Author
 -------
-The author of the Ford Vehicle Price Predictor project is [Your Name] 🙋‍♂️
+The author of the Ford Vehicle Price Predictor project is Deeptinirmalya 🙋‍♂️
 
 📝 License
 -------
