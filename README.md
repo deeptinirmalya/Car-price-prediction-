@@ -84,7 +84,7 @@ To test the project, follow these steps:
 
 📸 Screenshots
 -------------
-<img width="1913" height="917" alt="Image" src="https://github.com/user-attachments/assets/83c43ffa-da3c-4038-bbfb-5ea72cd681e8" />
+<img width="1813" height="908" alt="Image" src="https://github.com/user-attachments/assets/7a57dc2d-b5c9-45b1-9120-6095e71f3335" />
 
 
 📦 API Reference
