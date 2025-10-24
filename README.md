@@ -84,8 +84,8 @@ To test the project, follow these steps:
 
 📸 Screenshots
 -------------
-[Image 1: Screenshot of the Streamlit app](https://via.placeholder.com/400x300)
-[Image 2: Screenshot of the predicted price](https://via.placeholder.com/400x300)
+<img width="1913" height="917" alt="Image" src="https://github.com/user-attachments/assets/83c43ffa-da3c-4038-bbfb-5ea72cd681e8" />
+
 
 📦 API Reference
 ----------------
